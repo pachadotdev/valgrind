@@ -25,6 +25,11 @@ remotes::install_github("pachadotdev/valgrind")
 
 ## Example
 
+**If you use compiler optimizations, check how to disable those for
+easier debugging in my [C++ for R
+Users](https://pacha.dev/cpp11-for-r-users/08-r-packages-expanded.html#compiler-setup)
+guide.**
+
 If you have an R package containing the next C++ function:
 
 ``` cpp
